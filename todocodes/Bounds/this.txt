@@ -1,0 +1,4 @@
+Binary search algorethm
+
+Loose lower bound: if val is present then returns its lowest position or gives just lower value. -1 to n-1.
+Loose UPPER bound : try to locate val or gives just heigher value. 0 to n.
