@@ -1,0 +1,3 @@
+Cp way to make segment tree
+0 _ n-1 indexing
+change fun and default  return values of query_non_overlapping methods.
